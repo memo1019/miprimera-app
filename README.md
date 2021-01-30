@@ -51,7 +51,14 @@ para ver la documentacion haga click [aqui](https://memo1019.github.io/miprimera
 
 para ver la documentacion de javadoc use estos comandos y aqui podra ver esta documentacion.
 ```
-mvn javadoc:javadoc
+$ mvn javadoc:javadoc
+$ mvn javadoc:jar
+$ mvn javadoc:aggregate
+$ mvn javadoc:aggregate-jar
+$ mvn javadoc:test-javadoc
+$ mvn javadoc:test-jar
+$ mvn javadoc:test-aggregate
+$ mvn javadoc:test-aggregate-jar
 ```
 ```
 mvn site
