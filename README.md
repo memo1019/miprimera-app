@@ -17,7 +17,7 @@ git clone https://github.com/memo1019/miprimera-app
 ```
 luego ingresaremos a la carpeta dede el cmd o la consola:
 ```
-cd /CalculadoraEstadisticaAREP
+cd /miprimera-app
 ```
 ```
  mvn package
