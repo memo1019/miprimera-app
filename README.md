@@ -48,7 +48,7 @@ con este comando podemos ejecutar la clase encargado de hacer el uso de la ejecu
 ![Diagrama de Clases](/src/site/Resources/Diagrama%20de%20clases.png)
 
 ## Documentacion
-para ver la documentacion haga click [here](https://memo1019.github.io/miprimera-app/)
+para ver la documentacion haga click [aqui](https://memo1019.github.io/miprimera-app/)
 
 para ver la documentacion de javadoc use estos comandos y aqui podra ver esta documentacion.
 ```
@@ -61,7 +61,7 @@ mvn site
 mvn site:run
 ```
 
-Podemos ver la descripcion del proyecto en este pdf [Documentation.pdf file](/site/resources/lab1.pdf) mostrando el diseño y la estructura del proyecto
+Podemos ver la descripcion del proyecto en este pdf [file](/src/site/resources/lab1.pdf) mostrando el diseño y la estructura del proyecto
 
 ## Construido con
 
