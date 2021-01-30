@@ -47,9 +47,7 @@ con este comando podemos ejecutar la clase encargado de hacer el uso de la ejecu
 ![Diagrama de Clases](/src/site/Resources/Diagrama%20de%20clases.png)
 
 ## Documentacion
-para ver la documentacion haga click [aqui](https://memo1019.github.io/miprimera-app/)
-
-para ver la documentacion de javadoc use estos comandos y aqui podra ver esta documentacion.
+pararealizar la documentacion de javadoc use estos comandos y aqui podra llevar acabo el proceso de creacion de esta documentacion.
 ```
 $ mvn javadoc:javadoc
 $ mvn javadoc:jar
