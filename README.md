@@ -4,106 +4,76 @@ A Solution for AREP Workshop "Introduction to complex systems, JAVA,MVN and GIT"
 
 ## COMO EMPEZAR
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+se realizo el taller propuesto de "Introducción a los sistemas complejos, JAVA,MVN y GIT" utilizando listas enlazadas
+
 ### PREREQUISITOS
 
-The things you need in order to run this proyect on your computer are:
+Los prerrequisitos que manejaremos para lograr con exito el desarrollo del laboratorio son:
 - Maven
 - Git  
 - Java
 
-Make sure you have this installed with the commands
-```
-mvn --version
-```
-```
-git --version
-```
-and 
-```
-java -showversion
-```
-
-This project was developed with Java V1.8
-
-### Installing
-Please clone this repository on your computer with the command:
+### Ejecucion e instalacion
+se debe clonar el proyecto con el siguiente comando:
 
 ```
-git clone https://github.com/AndresMarcelo7/CalculadoraEstadisticaAREP
+git clone https://github.com/memo1019/miprimera-app
 ```
-Once finished, you must navigate into the project and execute the command 'mvn package' like this:
+luego ingresaremos a la carpeta dede el cmd o la consola:
 ```
-C:\Users\User > cd /CalculadoraEstadisticaAREP
+cd /CalculadoraEstadisticaAREP
 ```
 ```
-C:\Users\User > mvn package
+ mvn package
 ```
-Here, mvn package Builds the project and packages the resulting JAR file into the target directory.
+Finalmente coonstruiremos y compilaremos el proyecto para asi poder ejecutarlo.
 
-## Running the tests
+## Correr Pruebas
 
-if you want to run the tests again please run the following command:
+para correr pruebas podemos usar el comando:
 
 ```
-C:\Users\User > mvn test
+ mvn test
 ```
-## Test Coverage
+## Pruebas 
 
 ![Coverage](/img/testcov.jpg)
 
-## Run
+## Correr
 
-For running the project with some Data in the project please run the following command:
-
+Para correr el programa tenemos que ejecutar el siguiente comando :
 
 ```
-C:\Users\User\CalculadoraEstadisticaAREP > java -cp target/Calculadora-1.0-SNAPSHOT.jar edu.escuelaing.arep.CalculadoraEstadistica.App
+java -cp target/Calculadora-1.0-SNAPSHOT.jar edu.escuelaing.arep.CalculadoraEstadistica.App
 ```
-The data is allowed in a file called Data.txt
+con este comando podemos ejecutar la clase encargado de hacer el uso de la ejecucion, para asi ver con una entrada de texto el resultado de la media y la desviacion estandar
 
-If you want to put your own test cases on the calculator, follow this instructions:
+## Documentacion
+para ver la documentacion haga click [here](https://memo1019.github.io/miprimera-app/)
 
-- Go to the root package (CalculadoraEstadisticaAREP)
-- Search the file "Data.txt"
-- Put your values in that file, one line per case and each value separated by ","
-- Save the file 
-- Run the program again. 
+para ver la documentacion de javadoc use estos comandos y aqui podra ver esta documentacion.
+```
+mvn javadoc:javadoc
+```
+```
+mvn site
+```
+```
+mvn site:run
+```
 
-## Documentation
-If you want to see the Project Documentation Please click [here](https://andresmarcelo7.github.io/CalculadoraEstadisticaAREP/)
+Podemos ver la descripcion del proyecto en este pdf [Documentation.pdf file](/site/resources/lab1.pdf) mostrando el diseño y la estructura del proyecto
 
-If you want to run with maven the project Documentation, follow this instructions:
-- On the project directory run the following commands:
-```
-C:\Users\User\CalculadoraEstadisticaAREP > mvn javadoc:javadoc
-```
-```
-C:\Users\User\CalculadoraEstadisticaAREP > mvn site
-```
-```
-C:\Users\User\CalculadoraEstadisticaAREP > mvn site:run
-```
-This last commands will open the 8080 port in order to post the Javadoc file on your browser with the localhost URL http://localhost:8080  
-
-Also you will find a [Documentation.pdf file](/Documentacion.pdf)  that describes the design and structures of the project 
-
-## Built With
+## Construido con
 
 * [Maven](https://maven.apache.org/) - Dependency Management
-* CircleCI for Continous Integration  
-[![CircleCI](https://circleci.com/gh/AndresMarcelo7/CalculadoraEstadisticaAREP.svg?style=svg)](https://circleci.com/gh/AndresMarcelo7/CalculadoraEstadisticaAREP)
 * Git - Version Control  
- 
-## Versioning
 
- 
-
-## Authors
+## Autor
 
 * **Guillermo Alfonso CAstro Camelo** - [Memo1019](https://github.com/memo1019)
 
-## License
+## Licensia
 
 This project is licensed under the GNU v3.0 License - see the [LICENSE](LICENSE.txt) file for details
 
