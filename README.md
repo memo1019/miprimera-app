@@ -45,7 +45,7 @@ java -cp target/Calculadora-1.0-SNAPSHOT.jar edu.escuelaing.arep.CalculadoraEsta
 con este comando podemos ejecutar la clase encargado de hacer el uso de la ejecucion, para asi ver con una entrada de texto el resultado de la media y la desviacion estandar
 ## Diseño
 
-![Diagrama de Clases](/site/Resources/Diagrama%20de%20Clases.jpg)
+![Diagrama de Clases](/src/site/Resources/Diagrama%20de%20clases.png)
 
 ## Documentacion
 para ver la documentacion haga click [here](https://memo1019.github.io/miprimera-app/)
