@@ -1,6 +1,6 @@
 # AREP LABORATORIO 1 - INTRODUCCION A COMPLEJOS SISTEMAS JAVA, MVN, AND GIT 
 
-A Solution for AREP Workshop "Introduction to complex systems, JAVA,MVN and GIT" using Linked Lists
+se realizo el taller propuesto de "Introducción a los sistemas complejos, JAVA,MVN y GIT" utilizando listas enlazadasA Solution for AREP Workshop "Introduction to complex systems, JAVA,MVN and GIT" using Linked Lists
 
 ## COMO EMPEZAR
 
