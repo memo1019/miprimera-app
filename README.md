@@ -60,11 +60,9 @@ $ mvn javadoc:test-jar
 $ mvn javadoc:test-aggregate
 $ mvn javadoc:test-aggregate-jar
 ```
+si desea ver el javadoc se encuentra en el directorio
 ```
-mvn site
-```
-```
-mvn site:run
+/target/site
 ```
 
 Podemos ver la descripcion del proyecto en este pdf [file](/src/site/Resources/lab1.pdf) mostrando el diseño y la estructura del proyecto
