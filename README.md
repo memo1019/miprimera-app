@@ -43,6 +43,9 @@ Para correr el programa tenemos que ejecutar el siguiente comando :
 java -cp target/Calculadora-1.0-SNAPSHOT.jar edu.escuelaing.arep.CalculadoraEstadistica.App
 ```
 con este comando podemos ejecutar la clase encargado de hacer el uso de la ejecucion, para asi ver con una entrada de texto el resultado de la media y la desviacion estandar
+## Diseño
+
+![Diagrama de Clases](/site/Resources/Diagrama%20de%20Clases.jpg)
 
 ## Documentacion
 para ver la documentacion haga click [here](https://memo1019.github.io/miprimera-app/)
