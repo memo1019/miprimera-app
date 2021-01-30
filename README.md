@@ -37,7 +37,7 @@ para correr pruebas podemos usar el comando:
 ```
 ## Pruebas 
 
-![Coverage](/img/testcov.jpg)
+![Pruebas](/img/testcov.jpg)
 
 ## Correr
 
@@ -71,7 +71,7 @@ Podemos ver la descripcion del proyecto en este pdf [Documentation.pdf file](/si
 
 ## Autor
 
-* **Guillermo Alfonso CAstro Camelo** - [Memo1019](https://github.com/memo1019)
+* **Guillermo Alfonso Castro Camelo** - [Memo1019](https://github.com/memo1019)
 
 ## Licensia
 
