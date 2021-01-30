@@ -19,11 +19,10 @@ luego ingresaremos a la carpeta dede el cmd o la consola:
 ```
 cd /miprimera-app
 ```
+Finalmente coonstruiremos y compilaremos el proyecto para asi poder ejecutarlo.
 ```
  mvn package
 ```
-Finalmente coonstruiremos y compilaremos el proyecto para asi poder ejecutarlo.
-
 ## Correr Pruebas
 
 para correr pruebas podemos usar el comando:
