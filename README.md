@@ -33,14 +33,14 @@ para correr pruebas podemos usar el comando:
 ```
 ## Pruebas 
 
-![Pruebas](/img/testcov.jpg)
+![Pruebas](/src/site/Resources/pruebas.png)
 
 ## Correr
 
 Para correr el programa tenemos que ejecutar el siguiente comando :
 
 ```
-java -cp target/Calculadora-1.0-SNAPSHOT.jar edu.escuelaing.arep.CalculadoraEstadistica.App
+java -cp target/miprimera-app-1.0-SNAPSHOT.jar edu.escuelaing.AREP.Calculadora.CalculadoraMS.Calculadora
 ```
 con este comando podemos ejecutar la clase encargado de hacer el uso de la ejecucion, para asi ver con una entrada de texto el resultado de la media y la desviacion estandar
 ## Diseño
@@ -61,7 +61,7 @@ mvn site
 mvn site:run
 ```
 
-Podemos ver la descripcion del proyecto en este pdf [file](/src/site/resources/lab1.pdf) mostrando el diseño y la estructura del proyecto
+Podemos ver la descripcion del proyecto en este pdf [file](/src/site/Resources/lab1.pdf) mostrando el diseño y la estructura del proyecto
 
 ## Construido con
 
