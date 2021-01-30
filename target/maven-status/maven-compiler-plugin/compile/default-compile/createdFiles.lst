@@ -1,1 +1,5 @@
-edu\escuelaing\arem\ASE\app\App.class
+edu\escuelaing\AREP\Calculadora\app\App.class
+edu\escuelaing\AREP\Calculadora\Linkedist\Head.class
+edu\escuelaing\AREP\Calculadora\CalculadoraMS\Calculadora.class
+edu\escuelaing\AREP\Calculadora\Linkedist\Linkedist.class
+edu\escuelaing\AREP\Calculadora\Linkedist\Node.class
